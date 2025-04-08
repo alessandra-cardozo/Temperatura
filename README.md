@@ -15,8 +15,7 @@
  <div align="center">
 <H1>Descrição do projeto 📋</H1>
  </div>
-  Claro! Aqui está o seu README reformulado de acordo com a estrutura pedida:
-
+ 
 ---
 
 ### Apresentação do Projeto
